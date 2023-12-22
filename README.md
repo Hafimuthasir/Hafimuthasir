@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Muthasir</h1>
-<h4>I am a passionate Full Stack developer with experience in developing web applications.I have a strong background in software engineering. I have worked on various projects focused on Python,Django and React. I am also experienced in DevOps, and . I am a fast learner and have a strong work ethic. I am always looking for new challenges and opportunities to learn and grow as a developer
+<h4>I am a passionate Full Stack developer with experience in developing web applications.I have a strong background in software engineering. I have worked on various projects focused on Python,Django and React. I am also experienced in DevOps and mobile application development. I am a fast learner and have a strong work ethic. I am always looking for new challenges and opportunities to learn and grow as a developer
 </h4>
 <h1>🧰 Languages and Tools</h1>
 
